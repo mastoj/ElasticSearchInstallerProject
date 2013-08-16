@@ -2,7 +2,7 @@
 <package >
   <metadata>
     <id>ElasticSearchInstaller</id>
-    <version>1.0.1</version>
+    <version>1.0.2</version>
     <authors>toja</authors>
     <owners>toja</owners>
     <description>Package containing ElasticSearch and scripts for installing on Windows</description>
